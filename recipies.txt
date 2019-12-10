@@ -1,3 +1,5 @@
 welcome
 kheer
 pasta
+chicken
+lassi
